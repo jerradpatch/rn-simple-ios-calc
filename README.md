@@ -34,3 +34,7 @@ clear button versus an all clear button.
 
 
 
+
+https://github.com/jerradpatch/rn-simple-ios-calc/assets/10038916/43a74770-dd4b-42b4-9d93-9aff9fcb2882
+
+
